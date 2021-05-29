@@ -1,0 +1,19 @@
+/* Single Employee */
+.singleEmployee {
+    display: flex;
+    flex-direction: column;
+    margin: 10px 10px 10px 0;
+}
+
+.fullName {
+    margin-bottom: 5px;
+    letter-spacing: 1px;
+}
+
+.singleEmployee label {
+    margin: 3px 3px 3px 10px;
+}
+
+.singleInput {
+    margin-right: 10px;
+}
